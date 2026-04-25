@@ -1,4 +1,4 @@
-# Sistema de Dosagem Rotativa - Entrega Final
+# Entrega final - integração da mudança de direção 
 
 **Nomes:**
 - Luis Carlos Bastreghi Neto - 14802716
